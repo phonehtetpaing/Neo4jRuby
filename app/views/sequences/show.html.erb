@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Sequence:</strong>
+  <%= @sequence.sequence %>
+</p>
+
+<p>
+  <strong>Distance:</strong>
+  <%= @sequence.distance %>
+</p>
+
+<p>
+  <strong>Next busstop:</strong>
+  <%= @sequence.next_busstop_id %>
+</p>
+
+<%= link_to 'Edit', edit_sequence_path(@sequence) %> |
+<%= link_to 'Back', sequences_path %>
