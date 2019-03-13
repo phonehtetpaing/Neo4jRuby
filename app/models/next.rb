@@ -1,6 +1,6 @@
 class Next
   include Neo4j::ActiveRel
-  property :since, type: Integer
+  property :distance, type: Float
 
   from_class :Sequence
   to_class   :Sequence

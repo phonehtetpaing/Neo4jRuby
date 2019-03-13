@@ -9,6 +9,8 @@ namespace :db do
       end
       route.sequences.each_with_index do |order, index|
         order.distance = distance[index]
+        order.longitude = busstops[index].longitude
+        order.latitude = busstops[index].latitude
         order.save
       end
       route.sequences.order(:sequence).each_with_index do |sequence, index|
@@ -17,7 +19,7 @@ namespace :db do
           sequence.save
           s1 = route.sequences.find_by(sequence: index+1)
           s2 = route.sequences.find_by(sequence: index+2)
-          Next.create(from_node: s1,  to_node: s2)
+          Next.create(from_node: s1,  to_node: s2, distance: s2.distance)
         end
       end
     end

@@ -1,0 +1,96 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+3A	1	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82353	96.26792
+3A	2	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82711	96.26927
+3A	3	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233	96.27019
+3A	4	780	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83244	96.26511
+3A	5	772	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83505	96.25548
+3A	6	773	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83659	96.24994
+3A	7	666	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83817	96.24416
+3A	8	732	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.84925	96.24599
+3A	9	730	Awaiyar	အဝေရာ	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85056	96.24438
+3A	10	2136	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85391	96.24016
+3A	11	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85604	96.23746
+3A	12	720	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85803	96.23452
+3A	13	713	Kyan Mar Yae	ကျန်းမာရေး	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85635	96.23308
+3A	14	714	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85435	96.23135
+3A	15	688	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85238	96.22962
+3A	16	692	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.84995	96.22755
+3A	17	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84749	96.22322
+3A	18	702	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84835	96.22222
+3A	19	696	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85144	96.21856
+3A	20	682	Than Lan	သံလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85473	96.21485
+3A	21	678	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85871	96.21464
+3A	22	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.85758	96.21241
+3A	23	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.84739	96.20904
+3A	24	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84191	96.20437
+3A	25	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83871	96.20109
+3A	26	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83750	96.19982
+3A	27	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83501	96.19727
+3A	28	602	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83287	96.19510
+3A	29	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83114	96.19335
+3A	30	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82808	96.18817
+3A	31	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82620	96.18650
+3A	32	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82307	96.18337
+3A	33	365	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81996	96.17833
+3A	34	345	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81924	96.17228
+3A	35	343	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81545	96.17247
+3A	36	238	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80649	96.17213
+3A	37	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939	96.17579
+3A	38	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79631	96.17662
+3A	39	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446	96.17559
+3A	40	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79178	96.17452
+3A	41	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78448	96.17485
+3A	42	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78161	96.17430
+3A	43	161	Si Saing	ဆီဆိုင်	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77585	96.17262
+3A	44	2221	Ngar-sae Kwae	(၅၀) ကွေ့	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77443	96.17257
+3A	45	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77145	96.17255
+3A	46	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.77143	96.17125
+3A	47	147	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77160	96.16637
+3A	48	151	Pansodan (Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165	96.16308
+3A	49	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.77425	96.15955
+3A	50	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.77575	96.15888
+3A	51	174	Pansodan	ပန်းဆိုးတန်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Kyauktada	ကျောက်တံတား	16.77917	96.16236
+3A	52	176	Lay-sae-chauk Lan	(၄၆) လမ်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Kyauktada	ကျောက်တံတား	16.77888	96.16815
+3A	53	156	Lan Ngar Sae	လမ်း(၅၀)	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Kyauktada	ကျောက်တံတား	16.77873	96.17131
+3A	54	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78023	96.17455
+3A	55	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78440	96.17494
+3A	56	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177	96.17468
+3A	57	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79424	96.17568
+3A	58	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79649	96.17683
+3A	59	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79940	96.17602
+3A	60	239	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80669	96.17217
+3A	61	342	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81541	96.17266
+3A	62	344	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81894	96.17253
+3A	63	364	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81979	96.17808
+3A	64	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82305	96.18346
+3A	65	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82618	96.18658
+3A	66	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82776	96.18795
+3A	67	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83073	96.19315
+3A	68	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83266	96.19507
+3A	69	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83493	96.19740
+3A	70	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83714	96.19967
+3A	71	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83865	96.20123
+3A	72	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84200	96.20458
+3A	73	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.84738	96.20910
+3A	74	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.85755	96.21246
+3A	75	677	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85867	96.21455
+3A	76	681	Than Lan	သံလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85475	96.21478
+3A	77	695	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85141	96.21852
+3A	78	701	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84831	96.22216
+3A	79	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84718	96.22348
+3A	80	691	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.84976	96.22748
+3A	81	687	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85231	96.22970
+3A	82	715	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85429	96.23140
+3A	83	712	Kyan Mar Yae	ကျန်းမာရေး	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85613	96.23298
+3A	84	721	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85801	96.23459
+3A	85	2134	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85598	96.23739
+3A	86	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85407	96.23981
+3A	87	729	Awaiyar	အဝေရာ	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85052	96.24428
+3A	88	731	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.84918	96.24591
+3A	89	664	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83858	96.24387
+3A	90	774	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83661	96.24945
+3A	91	771	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83517	96.25461
+3A	92	779	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83240	96.26485
+3A	93	781	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83208	96.27044
+3A	94	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82714	96.26923
+3A	95	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82356	96.26786
