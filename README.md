@@ -72,5 +72,6 @@ Migrate the database(Default is development environment),
 ```
 RAILS_ENV=Environment bundle exec rake neo4j:migrate
 ```
-
+## Official Neo4j.rb Setup Website
+https://neo4jrb.readthedocs.io/en/8.2.x/Setup.html
 
